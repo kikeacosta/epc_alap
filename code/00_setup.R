@@ -17,6 +17,7 @@ libs <- c("tidyverse",
           "ungroup",
           "mgcv",
           "patchwork",
+          "remotes",
           "isoband",
           "gridExtra")
 
